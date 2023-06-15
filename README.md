@@ -58,3 +58,8 @@ WPF 모니터링, 컨트롤 화면
 
 라즈베리파이 테스트 결과
 <img src="https://github.com/sso-o22/PKNU_Raspberrypi/blob/main/images/raspberrypi01.jpg?raw=true" width="700">
+
+## 7일차
+- 라즈베리파이 학습
+	- 파이 카메라 v1.3 ov5647
+	- OpenCV 4.7
